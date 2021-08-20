@@ -27,3 +27,4 @@ RUN mix deps.get
 COPY . .
 
 EXPOSE 4000
+
